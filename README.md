@@ -41,5 +41,5 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 I also dabble in all other kinds of technology. You can find a general portfolio [here](https://github.com/udaykiran178).
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at udaykiran@gmail.com. 
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at udaykiran178@gmail.com. 
 
